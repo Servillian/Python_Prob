@@ -1,2 +1,3 @@
 from ChessFunc import *
-check_move("A", 1)
+check_move("A0")
+check_move("B9")

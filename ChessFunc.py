@@ -1,7 +1,12 @@
-def check_move(column, row):
-    assert(type(column) == str)
-    if column in "ABCDEFGH" and row in range(9) and type(column) != bool and type(row) != bool:
-        print(f"This piece is moved to {column}{row}")
+def check_move(placement):
+    column = placement[0]
+    row = int(placement[1])
+
+    if column.upper() in "ABCDEFGH":
+        if row in range(1,9):
+            print(f"This piece is moved to {column.upper()}{row}")
+        else:
+            print("The row value is not in range 1 to 8!")
     else:
         print("Not Valid")
     return
