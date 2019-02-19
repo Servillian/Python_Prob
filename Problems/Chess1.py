@@ -1,3 +1,3 @@
-from ChessFunc import *
+from Problems.ChessFunc import *
 check_move("A0")
 check_move("B9")
