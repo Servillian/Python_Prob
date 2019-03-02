@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="348e3677-0772-42ce-b386-8884d8ebe43c" name="Default Changelist" comment="olstuffs man 69ll">
-      <change afterPath="$PROJECT_DIR$/Problems/Authorship_Attribution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Dictionary_Manipulation.py" afterDir="false" />
+    <list default="true" id="348e3677-0772-42ce-b386-8884d8ebe43c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -245,7 +242,14 @@
       <option name="project" value="LOCAL" />
       <updated>1550649179919</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="give me the plant">
+      <created>1551489589297</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1551489589297</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -256,7 +260,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3243626" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3243626" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -272,7 +276,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="olstuffs man 69ll" />
-    <option name="LAST_COMMIT_MESSAGE" value="olstuffs man 69ll" />
+    <MESSAGE value="give me the plant" />
+    <option name="LAST_COMMIT_MESSAGE" value="give me the plant" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Problems/Filename.py">
