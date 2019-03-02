@@ -4,7 +4,12 @@
 #     # print(grade)
 #     if grade[0] == "Math":
 #         print(grade[1])
+grade_dict = {"English": 80, "Math": 99}
+grade_dict["Science"] = 93
+# print(grade_dict["Science"])
 
-grade_dict = {"English": 69, "Math": 49}
+a = 9
 
-print(grade_dict["English"])
+a = 10
+
+b = 10
