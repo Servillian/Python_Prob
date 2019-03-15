@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="348e3677-0772-42ce-b386-8884d8ebe43c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Problems/Authorship_Attributon_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Spiral_word.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Problems/Spiral_word.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+            <state relative-caret-position="187">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -253,19 +251,25 @@
       <option name="project" value="LOCAL" />
       <updated>1551489589297</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="giv m da plant">
+      <created>1552644578915</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1552644578915</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1552" height="840" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49895614" visible="true" weight="0.24950495" />
       <window_info id="Structure" order="1" sideWeight="0.50104386" side_tool="true" weight="0.24950495" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32344633" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32344633" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -282,7 +286,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="olstuffs man 69ll" />
     <MESSAGE value="give me the plant" />
-    <option name="LAST_COMMIT_MESSAGE" value="give me the plant" />
+    <MESSAGE value="giv m da plant" />
+    <option name="LAST_COMMIT_MESSAGE" value="giv m da plant" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -422,8 +427,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Problems/Spiral_word.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
