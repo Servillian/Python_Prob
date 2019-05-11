@@ -3,12 +3,11 @@ file = open("grades.csv.csv")
 
 class Student:
     # LN = Last Name, FN = Final name
-    def __init__(self, LN, FN, ID, total):
+    def __init__(self, LN, FN, ID, test):
         self.LN = LN
         self.FN = FN
         self.ID = ID
-        self.test = total
-
+        self.test = test
 
 reader = csv.reader(file)
 header = next(reader)
@@ -21,18 +20,12 @@ for row in reader:
     last_name += row[0] + ", "
     first_name += row[1] + ", "
     student_id += row[2] + ", "
-    a += row[3] + ", "
-    b += row[4] + ", "
-    c += row[5] + ", "
-    d += row[6] + ", "
+    a += row[3] + ", "; b += row[4] + ", "; c += row[5] + ", "; d += row[6] + ", "
 
 last = last_name.split(",")
 first = first_name.split(",")
 id = student_id.split(",")
-t1 = a.split(",")
-t2 = b.split(",")
-t3 = c.split(",")
-t4 = d.split(",")
+t1 = a.split(","); t2 = b.split(","); t3 = c.split(","); t4 = d.split(",")
 
 
 
