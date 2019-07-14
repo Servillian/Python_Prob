@@ -1,5 +1,12 @@
 import csv
-file = open("grades.csv.csv")
+import sys
+
+try:
+    filename = sys.argv[-1]
+    file = open(filename)
+except:
+    print("file not found, exiting program")
+    exit()
 
 class Student:
     # LN = Last Name, FN = Final name
