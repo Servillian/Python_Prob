@@ -5,4 +5,3 @@ if len(num) == 8:
         print("ERROR: Invalid Input")
 else:
     print("ERROR: Invalid Input")
-

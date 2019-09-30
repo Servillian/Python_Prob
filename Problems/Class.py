@@ -12,17 +12,20 @@ class person:
         return self.age + other.age
     def __sub__(self, other):
         return self.age - other.age
+
 class student(person):
     # def __repr__(self):
     #     return self.name + " student"
     def speak(self):
-        print("hello, I am", self.name, "school is to hard i want to die")
+        print("Hello, I am", self.name, "school is too hard i want to die")
 
 
 
 
 
 a = student(7, "jim")
+b = person(8, "tim")
+b.speak()
 # b = a
 b = student(7, "james")
 # print(a - b)
